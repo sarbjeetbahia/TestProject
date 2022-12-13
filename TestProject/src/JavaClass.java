@@ -12,7 +12,10 @@ public class JavaClass {
 		
 		driver.get("https://www.yahoo.com/");
 		
-		System.out.print("git test")
+		System.out.println("git test")
+		
+		System.out.println("branching test")
+		System.out.println("Branching")
 	}
 
 }
