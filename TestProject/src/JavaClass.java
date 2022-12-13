@@ -11,6 +11,8 @@ public class JavaClass {
 		WebDriver driver = new ChromeDriver();
 		
 		driver.get("https://www.yahoo.com/");
+		
+		System.out.print("git test")
 	}
 
 }
